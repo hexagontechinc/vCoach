@@ -2,4 +2,4 @@
 
 Flowcharts and coded flows for an AI driven virtual coach
 
-![Architecture 1](https://github.com/hexagontechinc/WIP/blob/master/DOCS_ANOMALY/Arch.001.jpeg)
+![Architecture](https://github.com/hexagontechinc/vCoach/blob/main/Flowchart_ML_vCoach.001.jpeg)
